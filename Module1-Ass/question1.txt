@@ -1,0 +1,9 @@
+1. Key feature of python -->
+        (i) --> Pyhton has a rich ecosystem of libraries and
+                framworks like - numPy , pandas , Django ecosystem
+        (ii) --> Python can be used is various places like  
+                    data science , AI , Web development ecosystem
+        (iii) --> It is object oriented programming language
+
+        (iv) --> Pyhton can be easily integrate with other programming
+                language
